@@ -4,7 +4,6 @@ public class Calculator {
 	
 	public Calculator(){
 	  }
-	
 	public void display() {
 		System.out.println("Welcome to my Calculator");
 		System.out.println("Select the Operation");
